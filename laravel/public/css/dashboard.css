@@ -1,0 +1,15 @@
+body {
+    all: unset;
+}
+
+body {
+	font-family: 'Arial', sans-serif;
+	background: var(--bg-dark);
+	color: var(--text-light);
+	overflow-x: hidden;
+}
+
+main {
+    padding-top: 110px;
+}
+
